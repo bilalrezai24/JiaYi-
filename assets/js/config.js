@@ -43,7 +43,7 @@ const SITE = {
    {
   name: "花花",
   image: "assets/images/friend1.jpg",
-  video: "assets/videos/1.mp4",
+  video: "",
   message: "To加一：\n 愿你在属于你的新岁朗日\n 自由生长 无忧无虑\n 生日快乐 永远幸福\n Best wishes！"
 },
     {
